@@ -1,0 +1,3 @@
+﻿  ConsoleApplication13.cpp
+C:\Users\DELL\source\repos\ConsoleApplication13\ConsoleApplication13.cpp(50): warning C4715: "printListReturn”: niewszystkie ścieżki kodu zwracają wartość
+  ConsoleApplication13.vcxproj -> C:\Users\DELL\source\repos\ConsoleApplication13\Debug\ConsoleApplication13.exe

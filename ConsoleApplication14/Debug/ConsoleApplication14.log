@@ -1,0 +1,5 @@
+﻿  ConsoleApplication14.cpp
+C:\Users\DELL\source\repos\ConsoleApplication14\ConsoleApplication14.cpp(17,10): warning C4553: „==”: Wynik wyrażenia nie jest używany; czy chodziło Ci o „=”?
+C:\Users\DELL\source\repos\ConsoleApplication14\ConsoleApplication14.cpp(32,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\DELL\source\repos\ConsoleApplication14\ConsoleApplication14.cpp(134,6): warning C4101: "zast": lokalna zmienna, do której nie istnieje odwołanie
+  ConsoleApplication14.vcxproj -> C:\Users\DELL\source\repos\ConsoleApplication14\Debug\ConsoleApplication14.exe
