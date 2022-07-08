@@ -1,0 +1,3 @@
+﻿  ConsoleApplication8.cpp
+C:\Users\DELL\source\repos\ConsoleApplication8\ConsoleApplication8.cpp(77): warning C4715: "check_BST”: niewszystkie ścieżki kodu zwracają wartość
+  ConsoleApplication8.vcxproj -> C:\Users\DELL\source\repos\ConsoleApplication8\Debug\ConsoleApplication8.exe
