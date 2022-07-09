@@ -1,7 +1,7 @@
 # C++
 Console Aplication:
 - 1 - Wskaźniki / Pointers
-- 2 - 
+- 2 - Pamięć wskaźników / Pointers's memory
 - 3 - Wskaźniki w tablicach z losowymi liczbami / Pointers in arrays with random numbers
 - 4 - Struktury / Structures
 - 5 - Szablony i  wyłapywanie błędów / Template and catching errors
